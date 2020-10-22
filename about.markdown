@@ -32,6 +32,10 @@ A-yuuki:某ガチで死ぬVRMMO小説の登場人物
 keybase pull kris57  
 curl https://github.com/yuuki76.gpg | gpg --import  
 gpg --fetch-keys https://github.com/yuuki76.gpg
-  
-### Twitter
-[8A4AK](https://twitter.com/8A4AK)
+
+### トラッキングについて
+
+このサイトでは一切のトラッキングを行っていません。
+
+### 問い合わせ
+フッターのメールアドレスかTwitterのDMまで。
