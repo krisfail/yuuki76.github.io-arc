@@ -30,7 +30,7 @@ A-yuuki:某ガチで死ぬVRMMO小説の登場人物
 ### PGP鍵
 
 ```shell
-keybase pull kris57
+keybase pgp pull kris57
 curl https://github.com/yuuki76.gpg | gpg --import
 gpg --fetch-keys https://github.com/yuuki76.gpg
 ```
