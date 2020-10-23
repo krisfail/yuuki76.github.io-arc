@@ -11,16 +11,16 @@ kris57です。A-yuukiなんて名乗ってた時代もありました。
 <details><summary>ハンドルの由来</summary>  
 kris57:fakerで適当に生成した名前+"素数"<br>
 A-yuuki:某ガチで死ぬVRMMO小説の登場人物
-</details>
+</details><br>
 
 都内住み学生  
-数学にまあまあ強い  
+数学にまあまあ強い 
 
 <div>
 <details><summary>
 興味のあるもの
 </summary>
-好きなもの/興味のあるもの(GitHubのプロフィールから抜粋)<br>
+(GitHubのプロフィールから抜粋)<br>
 ゲーム:GTA5,スマブラ,ポケモン,Portal,NieR,Minecraft,PSO2(最近やってない),MSFS<br>
 アニメ:SAO,とある,PSYCOPASS,このすば,コードギアス.Dr.Stone,キルミーベイベー,まちカドまぞく,まどマギ,,がっこうぐらし,シュタゲ,Fate<br>
 アングラ寄り:淫夢,恒心,例のアレ,メーデー<br>
