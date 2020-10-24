@@ -58,7 +58,7 @@ GitLab:yuuki76
   
 Twitter:@8A4AK,@8A4MB  
 (keybase.io/yuuki76/sigchain#1d0921a24b2c57fb3c2f8dbdb5a5ec0642d00ad151980787ec6fbd0523fcad400f),
-@kris35L,@P0litical  
+@kris35L,@P0IiticaI  
 Instagram:非公開(直接連絡して、どうぞ)  
 @kris57@mstdn.jp  
 Twitch:yuuki14514  
