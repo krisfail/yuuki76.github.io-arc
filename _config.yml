@@ -32,7 +32,7 @@ social_links:
     keybase: kris57
     mastodon:
     - username:kris57
-      instance: mstdn.jp
+      instance:mstdn.jp
 # Build settings
 theme: minima
 plugins:
