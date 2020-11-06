@@ -11,6 +11,7 @@ kris319@protonmail.com<br>
 kris57@outlook.jp<br>
 yuuki76@cock.li<br>
 kris57@hitler.rocks<br>
+kris@kris.fail<br>
 </details>
   
 [Keybase:kris57](https://keybase.io/kris57)  
