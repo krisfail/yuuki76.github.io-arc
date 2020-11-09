@@ -11,6 +11,7 @@ kris319@protonmail.com<br>
 kris57@outlook.jp<br>
 yuuki76@cock.li<br>
 kris57@hitler.rocks<br>
+kris@kris.fail<br>
 </details>
   
 [Keybase:kris57](https://keybase.io/kris57)  
@@ -37,7 +38,9 @@ XMPP:yuuki76@jabb.im,yuuki76@xmpp.jp,kris57@jabb.im
 Telegram:kris35L  
 signal:kris57  
 Bitmesseage:BM-NBpG6DDqokeEsvtdpwfWUuoccvya1Nto  
-Tox:DA5300A656CB12D37BE75007AA764B7D4E2086E28C2BC081573BDA16ABCF535FF6A729BE7ACA  
+Tox:DA5300A656CB12D37BE75007AA764B7D4E2086E28C2BC081573BDA16ABCF535FF6A729BE7ACA
+Jami:kris57
+Session:05796ed733c9d592cdee56759cdc7719cced0551bd8b5b6e77dce59ae422147930
   
 ### Game  
   
@@ -53,6 +56,7 @@ Github:yuuki76
 Docker Hub:yuuki76  
 StackOverFlow:yuuki76  
 GitLab:yuuki76  
+Jstris:kris57
   
 ### SNS  
   
