@@ -35,6 +35,11 @@ curl https://github.com/yuuki76.gpg | gpg --import
 gpg --fetch-keys https://github.com/yuuki76.gpg
 ```
 
+### Onionミラー
+
+当サイトではセルフホスティングのOnion(v3)によるミラーを用意しております
+[Onion Mirror(v3)](http://kris57xeegb7q5mxrigcmnnjryrdkecfsjolya5m7jf6gyj3ff24hlyd.onion/)
+
 ### トラッキングについて
 
 このサイトでは一切のトラッキングを行っていません。
