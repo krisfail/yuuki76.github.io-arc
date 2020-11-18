@@ -39,8 +39,8 @@ Telegram:kris35L
 Signal:kris57  
 ~~Bitmesseage:BM-NBpG6DDqokeEsvtdpwfWUuoccvya1Nto~~(Unused)  
 Tox:DA5300A656CB12D37BE75007AA764B7D4E2086E28C2BC081573BDA16ABCF535FF6A729BE7ACA
-Jami:kris57
-Session:05796ed733c9d592cdee56759cdc7719cced0551bd8b5b6e77dce59ae422147930
+Jami:kris57  
+~~Session:05796ed733c9d592cdee56759cdc7719cced0551bd8b5b6e77dce59ae422147930~~(Temporary Unused)
   
 ### Game  
   
