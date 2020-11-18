@@ -50,13 +50,14 @@ NNID:Kris(SW-1186-2276-5032)
 EpicGames:Kris57_  
 [Steam:Kris57](https://steamcommunity.com/profiles/76561198962686954)  
 MinecraftJE:yuuki76  
-Develop  
+Jstris:kris57
+
+### Develop  
 OSDN:yuuki76  
 Github:yuuki76  
 Docker Hub:yuuki76  
 StackOverFlow:yuuki76  
 GitLab:yuuki76  
-Jstris:kris57
   
 ### SNS  
   
